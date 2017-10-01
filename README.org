@@ -1,0 +1,10 @@
+* Git Guts
+
+This repo holds the code from my git guts articles on [[https://killring.io][killring.io]].
+
+- [[https://killring.io/post/git-guts-pack-index][The Pack Index]] :: Dig through git's pack file index
+- The Pack File :: Grub around in git's pack file and wrangle objects
+- Loose Objects :: Hang loose with git's loose object format
+- The Index :: Use the index to figure out what's what
+
+And maybe more?
